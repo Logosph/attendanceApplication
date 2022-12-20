@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Attendance application</string>
+    <string name="buttonDate" translatable="false">Choose date</string>
+    <string name="headerActivityChangeTimetable">Change timetable</string>
+</resources>
